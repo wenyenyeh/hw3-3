@@ -11,4 +11,5 @@
 
 **5.說明文檔**：在網頁上包含關於模型、資料生成方法及其應用的簡要說明，幫助使用者理解。</br>
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9474e41e-d1e6-4557-869a-e8ecd9d5b26c)
+
